@@ -33,3 +33,5 @@ Tiles from the image will appear in random order.
 Drag and drop each tile into the correct position on the grid.
 
 Complete the puzzle to finish the level.
+
+# Inside the src folder, there is a main.exe file. If your system meets the requirements, you can run it.
